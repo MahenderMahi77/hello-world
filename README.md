@@ -1,2 +1,2 @@
 # hello-world
-getting to know github
+got to know about branching
